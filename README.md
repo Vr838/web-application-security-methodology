@@ -151,5 +151,3 @@ This methodology prioritizes:
 
 **Vansh Rathore**  
 Penetration Tester
-Security Researcher  
-📧 vanshrathore64@gmail.com
