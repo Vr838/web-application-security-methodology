@@ -38,6 +38,8 @@ It is intended as a **learning resource, personal playbook, and reference** for 
   - CVE Hunt
   - JS Hunt
   - WP Recon
+  - LFI
+  - Swagger UI
 
 ---
 
