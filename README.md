@@ -17,7 +17,7 @@ It is intended as a **learning resource, personal playbook, and reference** for 
 - **tools-used.md**  
   List of tools used across all testing phases with brief explanations of their purpose.
 
-   **Methodology with commands.md**  
+- **Methodology with commands.md**  
   High-level bug hunting and web application security methodology with real commands, aligned with how to hunt a real website.
 
 - **LICENSE**  
