@@ -123,3 +123,7 @@ wpscan --url https://www.example.com --api-token $WPSCAN_API_KEY --enumerate ap,
 
 All commands are for educational purposes and authorized security testing only.
 Unauthorized testing is illegal and unethical.
+
+## Author
+Vansh Rathore
+Penetration Tester
